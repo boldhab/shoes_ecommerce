@@ -13,17 +13,20 @@ A modern, responsive frontend application for a premium footwear shopping experi
   
 ## Screenshots
 
+## Screenshots
+
 ### Home
-![Home](https://github.com/user-attachments/assets/da6cdb7c-c175-48af-911c-97c1e71c2aba)
+<img src="https://github.com/user-attachments/assets/da6cdb7c-c175-48af-911c-97c1e71c2aba" alt="Home" width="600"/>
 
 ### Menu
-![Menu](https://github.com/user-attachments/assets/c3805563-c015-4b5e-8c11-44f69c3adf82)
+<img src="https://github.com/user-attachments/assets/c3805563-c015-4b5e-8c11-44f69c3adf82" alt="Menu" width="600"/>
 
 ### Location
-![Location](https://github.com/user-attachments/assets/393678d5-eb51-45e3-87d7-0c1b32b9453e)
+<img src="https://github.com/user-attachments/assets/393678d5-eb51-45e3-87d7-0c1b32b9453e" alt="Location" width="600"/>
 
 ### About
-![About](https://github.com/user-attachments/assets/029098cc-f576-4fc6-ba0a-4a8018a1809d)
+<img src="https://github.com/user-attachments/assets/029098cc-f576-4fc6-ba0a-4a8018a1809d" alt="About" width="600"/>
+
 
 
 ## 🛠️ Tech Stack
