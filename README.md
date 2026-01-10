@@ -11,14 +11,20 @@ A modern, responsive frontend application for a premium footwear shopping experi
 - **Contact Support**: Dedicated interface for customer inquiries.
 - **Responsive Design**: Optimized for seamless viewing across all device sizes.
   
-## images 
-home 
-<img width="949" height="439" alt="s1" src="https://github.com/user-attachments/assets/da6cdb7c-c175-48af-911c-97c1e71c2aba" />
+## Screenshots
 
-<img width="959" height="431" alt="s2" src="https://github.com/user-attachments/assets/c3805563-c015-4b5e-8c11-44f69c3adf82" />
-<img width="951" height="434" alt="Screenshot 2026-01-01 144148" src="https://github.com/user-attachments/assets/393678d5-eb51-45e3-87d7-0c1b32b9453e" />
+### Home
+![Home](https://github.com/user-attachments/assets/da6cdb7c-c175-48af-911c-97c1e71c2aba)
 
-<img width="954" height="438" alt="Screenshot 2026-01-01 144218" src="https://github.com/user-attachments/assets/029098cc-f576-4fc6-ba0a-4a8018a1809d" />
+### Menu
+![Menu](https://github.com/user-attachments/assets/c3805563-c015-4b5e-8c11-44f69c3adf82)
+
+### Location
+![Location](https://github.com/user-attachments/assets/393678d5-eb51-45e3-87d7-0c1b32b9453e)
+
+### About
+![About](https://github.com/user-attachments/assets/029098cc-f576-4fc6-ba0a-4a8018a1809d)
+
 
 ## 🛠️ Tech Stack
 
