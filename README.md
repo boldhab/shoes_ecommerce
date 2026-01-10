@@ -10,6 +10,9 @@ A modern, responsive frontend application for a premium footwear shopping experi
 - **About Us**: Insights into the brand's story and mission.
 - **Contact Support**: Dedicated interface for customer inquiries.
 - **Responsive Design**: Optimized for seamless viewing across all device sizes.
+  
+## images 
+<img width="949" height="439" alt="s1" src="https://github.com/user-attachments/assets/da6cdb7c-c175-48af-911c-97c1e71c2aba" />
 
 ## 🛠️ Tech Stack
 
