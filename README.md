@@ -79,4 +79,4 @@ src/
    npm run build
    ```
 
-## Develoed by Habtamu Befekadu (Bold Hab)
+## Develoed by Habtamu Befekadu 
