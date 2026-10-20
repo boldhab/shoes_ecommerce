@@ -51,10 +51,6 @@ src/
 
 ## 🏁 Getting Started
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (Latest LTS recommended)
-- [npm](https://www.npmjs.com/)
 
 ### Installation
 
