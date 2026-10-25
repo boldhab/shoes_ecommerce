@@ -70,9 +70,6 @@ src/
    npm run dev
    ```
 
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
+
 
 
